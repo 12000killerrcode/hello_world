@@ -1,0 +1,37 @@
+h1, p  {
+    margin-left: 200px;
+}
+h1 {
+    font-size: 70px;
+}
+p {
+    font-size: 40px;
+}
+span {
+    color: red;
+}
+a {
+    text-decoration: none;
+}
+/*navigation bar*/
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:navy;
+}
+/*image*/
+img 
+hello_world.jgp{
+    height: 30cm;
+    width: 30cm;
+}
+
+ 
+
+
+
+
+
+
+    
