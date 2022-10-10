@@ -1,6 +1,5 @@
-# MY FIST WEB PAGE
+# MY FIRST WEB PAGE
  
 - Built using html
-- Styled using css
+- Styled using css 
 - Project details don using README.md
- 
